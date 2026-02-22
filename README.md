@@ -18,8 +18,7 @@ biblelingo_verses/
 │   ├── architecture/     # Technical architecture docs
 │   └── research/         # User research, market analysis
 ├── releases/
-│   ├── v1.0.0/          # Release notes and changelogs
-│   ├── v1.1.0/
+│   ├── v1.0.4/          # Latest release
 │   └── ...              # Future releases
 ├── assets/
 │   ├── screenshots/     # App Store screenshots
@@ -35,6 +34,7 @@ BibleLingo Verses helps users memorize Bible verses through:
 - Spaced repetition system
 - Progress tracking
 - Daily challenges
+- Friends leaderboard
 
 ## 🚀 Development Workflow
 
@@ -72,5 +72,12 @@ All rights reserved.
 
 ---
 
-**Latest Version**: 1.0.0  
-**Last Updated**: February 2026
+**Latest Version**: 1.0.4
+**Last Updated**: 22 February 2026
+**Latest Release Notes**: [v1.0.4 Changelog](releases/v1.0.4/CHANGELOG.md)
+
+## 📜 Release History
+
+| Version | Date | Highlights |
+|---------|------|------------|
+| [1.0.4](releases/v1.0.4/CHANGELOG.md) | 2026-02-21 | User accounts (Apple/Google Sign-In), Recap page, Friends leaderboard, UI standardisation, Profile page overhaul |
